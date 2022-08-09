@@ -15,6 +15,6 @@ hello atguigu hello git
 hello atguigu hello git
 hello atguigu hello git
 hello atguigu hello git
-hello atguigu hello git	   master test
 hello atguigu hello git
-hello atguigu hello git  libingsuai
+hello atguigu hello git master text
+hello atguigu hello git 
